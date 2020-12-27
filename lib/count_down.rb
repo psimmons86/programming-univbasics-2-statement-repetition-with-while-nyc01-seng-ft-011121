@@ -1,4 +1,4 @@
-while (conditon) do
+while (count) do
   
 count = 10 
 
