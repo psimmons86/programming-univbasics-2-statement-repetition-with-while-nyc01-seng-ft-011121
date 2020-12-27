@@ -1,1 +1,5 @@
-# Write your code here
+while (conditon) do
+  
+count = 10 
+
+end
